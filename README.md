@@ -1,0 +1,1 @@
+To strengthen my HTML and CSS fundamentals through hands-on practice and build a foundation for web development.
