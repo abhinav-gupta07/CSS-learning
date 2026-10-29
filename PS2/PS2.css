@@ -1,0 +1,24 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: #202734;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: #B7D894;
+}
+p{
+    text-align: center;
+    color: #E0F8C7 ;
+    /* text-transform: capitalize; */
+}
+#outer{
+    font-size: 25px;
+    color: #E0F8C7 ;
+}
+#inner{
+    font-size: 10px;
+    color: #E0F8C7 ;
+}
